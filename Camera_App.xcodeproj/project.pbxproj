@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		171CFE242608996600B09189 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171CFE232608996600B09189 /* ImagePicker.swift */; };
 		1769BF5925D6788C00A166F5 /* Camera_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1769BF5825D6788C00A166F5 /* Camera_AppApp.swift */; };
 		1769BF5B25D6788C00A166F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1769BF5A25D6788C00A166F5 /* ContentView.swift */; };
 		1769BF5D25D6788F00A166F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1769BF5C25D6788F00A166F5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		171CFE232608996600B09189 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		1769BF5525D6788C00A166F5 /* Camera_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Camera_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1769BF5825D6788C00A166F5 /* Camera_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_AppApp.swift; sourceTree = "<group>"; };
 		1769BF5A25D6788C00A166F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				1769BF5825D6788C00A166F5 /* Camera_AppApp.swift */,
 				1769BF5A25D6788C00A166F5 /* ContentView.swift */,
+				171CFE232608996600B09189 /* ImagePicker.swift */,
 				1769BF5C25D6788F00A166F5 /* Assets.xcassets */,
 				1769BF6125D6788F00A166F5 /* Info.plist */,
 				1769BF5E25D6788F00A166F5 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				171CFE242608996600B09189 /* ImagePicker.swift in Sources */,
 				1769BF5B25D6788C00A166F5 /* ContentView.swift in Sources */,
 				1769BF5925D6788C00A166F5 /* Camera_AppApp.swift in Sources */,
 			);
